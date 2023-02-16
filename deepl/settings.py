@@ -3,6 +3,7 @@ API_URL = "https://www2.deepl.com/jsonrpc"
 MAGIC_NUMBER = int("CAFEBABE", 16)
 
 SUPPORTED_LANGUAGES = [
+    {"code": "UK", "language": "Ukrainian"},
     {"code": "BG", "language": "Bulgarian"},
     {"code": "ZH", "language": "Chinese"},
     {"code": "CS", "language": "Czech"},
