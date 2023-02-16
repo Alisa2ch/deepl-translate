@@ -22,6 +22,7 @@ Currently the following languages are supported:
 
 | Abbreviation | Language   | Writing in own language |
 |--------------|------------|-------------------------|
+| UK           | Ukrainian  | Українська              |
 | BG           | Bulgarian  | Български               |
 | ZH           | Chinese    | 中文                    |
 | CS           | Czech      | Česky                   |
